@@ -1,4 +1,16 @@
-## Hi there 👋
+# Maksym Laskavchuk
+
+## 📞 Contact
+- 📧 Email: maksim.laskavcuk@gmail.com
+
+## 🎓 Education
+- **Cybersecurity**, Vasyl’ Stus Donetsk National University
+
+## 💼 Work Experience
+- **Information Security Specialist**, Vinnytsia City Council (2024 – present)
+
+## 🛠️ Skills
+- Docker, Linux, Bash, Python, Kubernetes, CI/CD
 
 <!--
 **Laskavchuk/Laskavchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
